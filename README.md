@@ -1,7 +1,5 @@
 ## Olá! Meu nome é Vivian Freitas!
 
-O que eu faço?
-
 - 💻 Cursando Sistemas de Informação.
 - 🌱 Java é a raiz, Spring é o crescimento!
 - 🖱️ Desenvolvimento Web.
