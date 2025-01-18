@@ -23,6 +23,7 @@
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%23007ACC.svg?logo=kotlin&logoColor=white)
 
-    System.out.printl("⭐ Olá! Mundo! ⭐")
+    System.out.println("⭐ Olá! Mundo! ⭐")
+    
 
 
