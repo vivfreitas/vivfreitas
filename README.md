@@ -5,15 +5,16 @@
 - 🖱️ Desenvolvimento Web.
 - 📱 Android Studio com Kotlin.
 
+## Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vivianfreitas)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vivi.__f?igsh=azB0a2E4eGF4MWh4)
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freitasvivian2001@gmail.com)
 
 
-## Minhas estatísticas:
+## Minha estatística:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivfreitas&layout=compact&theme=nightowl)
 
-# Tecnologias que eu uso
+# Tecnologias usadas:
 
 ![Java](https://img.shields.io/badge/Java-%23b90e0e.svg?logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%b90e0e.svg?logo=spring&logoColor=white)
