@@ -2,12 +2,11 @@
 
 - 💻 Cursando Sistemas de Informação.
 - 🌱 Java é a raiz, Spring é o crescimento!
-- 🖱️ Desenvolvimento Web.
-- 📱 Android Studio com Kotlin.
+- 🖱️ APIs Rest.
+
 
 ## Redes:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vivianfreitas)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vivi.__f?igsh=azB0a2E4eGF4MWh4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivianfreitas/)
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freitasvivian2001@gmail.com)
 
 
