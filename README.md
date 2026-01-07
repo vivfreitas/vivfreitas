@@ -7,11 +7,8 @@
 
 ## Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivianfreitas/)
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freitasvivian2001@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivianprofissi7800@gmail.com)
 
-
-## Minha estatística:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivfreitas&layout=compact&theme=nightowl)
 
 # Tecnologias usadas:
 
